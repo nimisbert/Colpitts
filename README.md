@@ -5,7 +5,7 @@ The Voltage amplification stage is made using a 2N2222 BJT transistor.
 
 ## Output oscillation
 
-![oscillations](./.assets/osc.png)
+![oscillations](./assets/osc.png)
 
 ## Source
 
